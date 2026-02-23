@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Build directories
+watar-projects/
+
+# Logs
+logs/
+npm-debug.log*
